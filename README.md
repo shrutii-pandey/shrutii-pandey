@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shruti Pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="left" alt="Coding" width="100" height="100" src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" >
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
