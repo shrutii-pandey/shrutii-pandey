@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React,DSA**
 
-- 💬 Ask me about **C,C++,HTML,CSS**
+- 💬 Ask me about **C,C++,HTML,CSS,JavaScript**
 
 - 📫 How to reach me **shrutipandeyobra@gmail.com**
 
