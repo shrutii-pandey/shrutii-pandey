@@ -5,9 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🌱 I’m currently learning **React,DSA**
-
-- 💬 Ask me about **C,C++,HTML,CSS,JavaScript**
+- 💬 Ask me about **AWS, Full Stack Development, C/C++, Python**
 
 - 📫 How to reach me **shrutipandeyobra@gmail.com**
 
